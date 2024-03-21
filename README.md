@@ -6,10 +6,11 @@ Sweet Haven is an online candy store application built with Redux to manage the 
 
 Technologies Used:
 
-React
-Redux
-Redux Toolkit
-CSS (for styling)
+- React
+- Redux
+- JavaScript
+- Redux Toolkit
+- CSS (for styling)
 
 Features:
 
